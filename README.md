@@ -1,2 +1,2 @@
 # lio-sam-noted-details
-LIO_SAM 代码学习和详细注释
+LIO-SAM 代码学习和详细注释
